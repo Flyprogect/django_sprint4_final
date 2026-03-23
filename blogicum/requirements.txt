@@ -1,0 +1,16 @@
+asgiref==3.11.1
+Django==3.2.16
+django_debug_toolbar==3.8.1
+flake8==5.0.4
+isort==7.0.0
+mccabe==0.7.0
+numpy==2.2.6
+Pillow==9.3.0
+pycodestyle==2.9.1
+pyflakes==2.5.0
+pygame==2.5.2
+pytz==2025.2
+ruff==0.14.4
+sqlparse==0.5.5
+typing_extensions==4.15.0
+uv==0.9.7
